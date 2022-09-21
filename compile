@@ -1,0 +1,8 @@
+Foi compilado com a versão Python 3.10.6
+
+Compilar
+pip3 install pyinstaller
+pyinstaller --onefile main.py
+
+Executar
+./main < tests/test1.txt
